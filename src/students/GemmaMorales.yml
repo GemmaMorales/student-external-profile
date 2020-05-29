@@ -41,16 +41,16 @@ basic_info:
 
     # Contact Information
     email: gemmaamorales@gmail.com #optional
-    phone: 234 2342 342 #optional
-    website: asd.com #optional
-    linkedin: alandoe #optional
+    phone: #optional
+    website: #optional
+    linkedin: Gemma Morales #optional
     
     #
     # ******** IMPORTANT *******
     # This github username will be use to generate your public profile URL like this: http://sep.breatheco.de/sharu725
     github: GemmaMorales
     
-    twitter: 'webjeda' #optional
+    twitter:  #optional
     stack-overflow: # Number/Username, e.g. 123456/alandoe
 
     # languages you speak, levels inculde: Native, Professional
@@ -58,42 +58,43 @@ basic_info:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
       - idiom: Spanish
         level: Professional
 
+      - idiom: Yolngu Matha
+        level: Limited proficiency
+
     # Interests or hobies
     interests:
-      - item: Climbing
+      - item: Pilates and Dance
 
-      - item: Snowboarding
+      - item: Vegan food
 
-      - item: Cooking
+      - item: 
 
 # Your previous education
 education:
-    - degree: MSc in Computer Science
-      university: University of London
+    - degree: Ph.D. in Applied Linguistics and Educational Linguistics
+      university: University of Melbourne, AU
       # optional
-      university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-      time: 2011 - 2012
+      university_logo: https://d2glwx35mhbfwf.cloudfront.net/v4.10.0/logo-with-padding.svg
+      time: 2013 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Recently completed a PhD research project which investigated the development of Yolngu Matha 
+        (home language) literacy skills of Indigenous children living in remote Indigenous communities 
+        in the Northern Territory, Australia. The project involved the creation of iPad apps meant to 
+        assess and train phonological awareness and letter knowledge in Yolngu Matha. It is hoped that 
+        these resources will facilitate the acquisition of early literacy for children in these communities. 
+        Indigenous culture is primarily transmitted through oral tradition; ergo, home language literacy 
+        resources are scarce. Focus: emergent literacy, phonological awareness, letter knowledge, Dhuwaya 
+        dialect, IT resources.
 
-          - Bullet point
-          - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
+    - degree: B.A. in Linguistics
+      university: University of Southern California
       # optional
-      university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-      time: 2007 - 2011
+      university_logo: https://identity.usc.edu/files/2019/01/PrimShield-Word_SmallUse_CardOnTrans.png
+      time: 2010 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
